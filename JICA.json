@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "JICA HQs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73614275455475,
+          35.68553990465465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "JICA TIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6747899055481,
+          35.6730905690796
+        ]
+      }
+    }
+  ]
+}
